@@ -1,0 +1,26 @@
+{
+    "name": "raccoon/module-utility",
+    "description": "",
+    "type": "magento2-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        },
+        {
+            "email": "crossgate9@gmail.com",
+            "name": "Allen Koo"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Raccoon\\Utility\\": ""
+        }
+    }
+}
