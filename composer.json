@@ -1,8 +1,9 @@
 {
-    "name": "raccoon/module-utility",
-    "description": "",
+    "name": "raccoontech/module-utility",
+    "description": "Utility for daily maintenance",
     "type": "magento2-module",
-    "license": "proprietary",
+    "version": "1.0.0",
+    "license": "MIT",
     "authors": [
         {
             "email": "crossgate9@gmail.com",
