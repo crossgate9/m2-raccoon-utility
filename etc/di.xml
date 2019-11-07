@@ -7,4 +7,8 @@
 			</argument>
 		</arguments>
 	</type>
+
+	<type name="Magento\Checkout\CustomerData\DefaultItem">
+        <plugin name="AddAttPlug" type="Raccoon\Utility\Plugin\DefaultItem" disabled="false" sortOrder="10"/>
+    </type>
 </config>
